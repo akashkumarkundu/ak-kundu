@@ -48,12 +48,14 @@
 
                 <!-- Navigation Anchors -->
                 <nav class="hidden md:flex items-center gap-6 text-sm font-medium text-slate-700 dark:text-zinc-300">
+                    <a href="{{ route('home') }}" class="text-indigo-600 dark:text-indigo-400 font-semibold border-b-2 border-indigo-600 dark:border-indigo-400 pb-0.5">Home</a>
+                    <a href="{{ route('services') }}" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Services & Solutions</a>
                     <a href="#about" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">About</a>
                     <a href="#skills" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Skills</a>
                     <a href="#projects" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Projects</a>
-                    <a href="#experience" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Experience</a>
                     <a href="#contact" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Contact</a>
                 </nav>
+
 
                 <!-- Actions: Simple 2-Mode Light/Dark Toggle & Auth Links -->
                 <div class="flex items-center gap-3">
