@@ -48,7 +48,7 @@
 
                 <!-- Navigation Links -->
                 <nav class="hidden md:flex items-center gap-6 text-sm font-medium text-slate-700 dark:text-zinc-300">
-                    <a href="{{ route('home') }}" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Home Profile</a>
+                    <a href="{{ route('home') }}" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Home Profiles</a>
                     <a href="{{ route('services') }}" class="text-indigo-600 dark:text-indigo-400 font-semibold border-b-2 border-indigo-600 dark:border-indigo-400 pb-0.5">Services & Solutions</a>
                     <a href="#estimator" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Cost Estimator</a>
                     <a href="#reviews" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Testimonials</a>
