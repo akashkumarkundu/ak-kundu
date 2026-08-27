@@ -129,7 +129,7 @@
                         </h1>
 
                         <p class="text-base sm:text-lg text-slate-600 dark:text-zinc-400 max-w-2xl font-normal leading-relaxed">
-                            Passionate Full-Stack Developer specializing in building robust, modern web applications using <strong class="text-slate-900 dark:text-zinc-200 font-semibold">Laravel 13</strong>, <strong class="text-slate-900 dark:text-zinc-200 font-semibold">Livewire 4</strong>, and <strong class="text-slate-900 dark:text-zinc-200 font-semibold">Tailwind CSS v4</strong>. Turning big ideas into seamless digital experiences.
+                            Passionate Full-Stack Developer Focusing on in building robust, modern web applications using <strong class="text-slate-900 dark:text-zinc-200 font-semibold">Laravel 13</strong>, <strong class="text-slate-900 dark:text-zinc-200 font-semibold">Livewire 4</strong>, and <strong class="text-slate-900 dark:text-zinc-200 font-semibold">Tailwind CSS v4</strong>. Turning big ideas into seamless digital experiences.
                         </p>
 
                         <!-- Tech Badges -->
